@@ -17,7 +17,7 @@ The repository is organized as follows:
 ### 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/singhkuldeep01/KuldeepSingh_22BCS12954.git
    ```
 2. Navigate to the required folder:
    ```sh
@@ -32,8 +32,8 @@ The repository is organized as follows:
 ### 📬 Contact
 For queries or collaboration, feel free to connect:
 - **Email:** 7351320178k@.com
-- **GitHub:** [your-github-profile](https://github.com/singhkuldeep01)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/kuldeep-singh-rajput-095a282b7/)
+- **GitHub:** [singhkuldeep01 ](https://github.com/singhkuldeep01)
+- **LinkedIn:** [Kuldeep Singh](https://www.linkedin.com/in/kuldeep-singh-rajput-095a282b7/)
 
 ---
 💡 _Keep learning and keep coding!_ 🚀
